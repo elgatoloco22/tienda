@@ -15,6 +15,6 @@ setup(name = "djangohero",
       entry_points={
           "console_scripts": ["djangohero = djangohero.djangohero:main"]},
       install_requires=[
-          "Django == 1.10.4",
+          "Django == 1.11.29",
       ],
 )
